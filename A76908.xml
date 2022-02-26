@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bloody Parliament, in the raigne of an unhappy prince</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76908</idno>
+            <idno type="STC">Wing B3287</idno>
+            <idno type="STC">Thomason E88_33</idno>
+            <idno type="STC">ESTC R22282</idno>
+            <idno type="EEBO-CITATION">99871688</idno>
+            <idno type="PROQUEST">99871688</idno>
+            <idno type="VID">124103</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124103)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E88[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bloody Parliament, in the raigne of an unhappy prince</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare of much blood-shed. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 9th 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Richard --  II, --  King of England, 1367-1400 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124103:1" rendition="simple:additions"/>
+            <p>THE BLOODY PARLIAMENT, IN THE RAIGNE OF AN Unhappy Prince:</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare of much Blood-ſhed. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:124103:2"/>
+            <head>The unhappie Prince.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">T</seg>His preſent occaſion, ſerving ſo opportunely ſir, I thought it a labour well worthy the Obſervation to lay downe a true Narration of that memorable Parliament begun in the tenth year of <hi>Richard</hi> the Second, both for the great wonders that it wrought in the ſubvetſion of the Malignants who were neer unto the King, and had diſtil<g ref="char:EOLhyphen"/>led much pernitious Counſell into His ſacred cares: As alſo that every good and carefull reader might learn ther<g ref="char:EOLhyphen"/>by to avoyd diverſities of miſeries, and the feare and dan<g ref="char:EOLhyphen"/>ger of a cruell death. I will therefore give a true and ſhort Narration of that which hath laine hid a long time in the ſhaddow of forgetfullneſſe, concerning men of great and eminent Authority in this Kingdom, who hath been led away in the deceitfull path of Covetouſneſſe, and have come to an untimely and ignominious end; being famous examples to deterr all men in authority, or whom favour ſhall raiſe neere unto the King, from practiſing thoſe or the like courſes.</p>
+               <p>When <hi>Richard</hi> the Second of that name about the prime of his youth, ſway'd the Imperiall Scepter of our Realme, there flouriſhed in his Court certaine Peeres, <hi>viz. Alex<g ref="char:EOLhyphen"/>ander Nevill,</hi> Arch-biſhop of <hi>Yorke,</hi> A man more favour<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by fortune then by the honour of his Decent. <hi>Robert Vere</hi> Duke of Ireland, <hi>Michael de la poole,</hi> Earle of Suf<g ref="char:EOLhyphen"/>folke, and then Lord Chancelour, <hi>Robert Triſsilian,</hi> Lord chiefe Juſtice of England, and <hi>Nicholas Brambre,</hi> a man though low in parentage, yet ſometime Lord Major of <hi>London.</hi> Theſe men being raiſed by the ſpeciall favour of the King, and advanced to the degree of privy Councelors where the men who had the only rule of the Common<g ref="char:EOLhyphen"/>wealth, which they for a little while governed under the King with great care and diligence meriting thereby de<g ref="char:EOLhyphen"/>ſerved commendations, but this not long did continue for
+<pb facs="tcp:124103:2"/>overcome either with ambition, or with Covetouſneſſe <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with the pleaſures of the Court; they deſpiſed the Au<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ity of their too eaſie King, and neglecting the com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dity of the Realme in a ſhort time, the Revenewes of <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Crowne began to waſt, the Treaſure was exhauſted, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Commons murmered at the multiplicity of Levyes &amp; <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ies and new wayes of taxations, the Peers repine <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> themſelves diſgraced, and in one word the whole <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>gdom endured an univerſall miſery. The Nobility ſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> the miſerable eſtate wherein themſelves and the King<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> was involved, urged the King to Summon a Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, which was done ſhortly after; in which, amongſt <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>y other Acts <hi>Michael de la poole</hi> was diſmiſſed of his <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>cellorſhipe, and being accuſed of many crimes of In<g ref="char:EOLhyphen"/>ſtice as bribery, extortion, and the like, he was com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed to <hi>Windſor</hi>-Caſtle, and all his lands confiſcated to <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing. Neither did the Parliament here give over but <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ided for the whole ſtate by a mutuall conſent betwixt <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Majeſtie and the prelates, the Barous and the Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, and with an unanimous conſent, they choſe a com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> of the Lords Spirituall and Temporall to depreſſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will diſcentions, and to appeaſe the grudgings of the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ple. Of the Spiritua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty was choſen the Arch-biſhop of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>erbury,</hi> the Arch-biſhop of <hi>Yorke,</hi> the Biſhop of <hi>Ely.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>iſhop of <hi>Winche<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er</hi> &amp;c. Of the Layalty were elect<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> by the Duke of <hi>Yorke,</hi> the Earle of <hi>Arundell,</hi> the Lord <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ham,</hi> the Lord <hi>Scroope</hi> &amp;c. theſe as men eminent in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were choſen by generall ſuffrage and (the Parlia<g ref="char:EOLhyphen"/>ment being then to be diſsolved) were ſworne to carry himſelves as dutiful and obedient ſubjects in all their ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>. Soone after the aforenamed Chancellor, <hi>Michael <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> poole</hi> buzzed in the Kings eares (being, moved with <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>placable fury againſt the Parliament) that the ſtatutes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enacted, were prejudiciall to the Crowne, and much <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ogarory to his Princely Prerogative, inſomuch that he ſhould not have the power in his owne hands to preſerve <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>vant or to beſtowe a largeſſe &amp;c. By theſe and other the like impious inſtigatious, with which ihe Devill did <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tually ſupply them, they practiſed to annihelate theſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Parliament, or whatſoever might ſeeme by the
+<pb facs="tcp:124103:3"/>liberty of the Subiect to reflect on the royall Prerogative of the Prince: And firſt by their ſerpentine tongues, and a nabitious Proiects, they ſo bewitched the noble inſtina<g ref="char:EOLhyphen"/>tion of the King, that they induced him to beleeve that all the ill they did was a generall good, and ſo wrought you him, that he begann to diſtaſt and abhore the paſſed Acts of his Parliaments as treacherous plots &amp; wicked devices. Next they ſtuddied to ingroſſe the riches of the Kingdom into their own Coffers, and to the ſame and deale ſo cun<g ref="char:EOLhyphen"/>ningly, yet pleaſingly with the King, that to ſome he gave ranſomes of royall captives, taken in the late warts in <hi>France;</hi> to ſome townes, to ſome cities, to ſome Lands, to others money amounting to the ſume of a hundred thouſand markes to the great impoveriſhment both of King and Kingdom. Thirdly contrary to their allegiance they viliſied the Dignity of the King, they cauſed him to ſware that with all his power during his life, he ſhould maintaine and defend them, from all their enemiss wei<g ref="char:EOLhyphen"/>ther Forraigne or demeſtick. Fourthly, where it was e<g ref="char:EOLhyphen"/>nacted that the King ſhould ſit with his Parliament at Weſtminſter to conſult of the publicke affaires, through the preſwation of the aforeſaid Conſpirators he was drawn into the moſt remote parts of all his Realme, to the great diſparagement of his great Counſell, and the generall diſ<g ref="char:EOLhyphen"/>ſatisfaction of the Kingdome. And when any of his great Counſell came to make relation of the ſtate of the Realme unto his Majeſty, they could not be granted acceſſe, un<g ref="char:EOLhyphen"/>leſſe they related the buſineſſe in the preſence of the con<g ref="char:EOLhyphen"/>ſpirators, who was alwayes ready to upbraid them, if they uttered any thing that diſpleaſed them, and though they ſeemed to advance it, they did as much as in them lay, to hinder the King from excerciſing his Royall Prorogative. But though there were ſo many Plots, Conſpiracies, and Treaſons againſt our State, our ever mercifull God inſpir<g ref="char:EOLhyphen"/>ed into the hearts of the Duke of <hi>Glouceſter,</hi> the Earles of <hi>Arundell</hi> and <hi>Warwicke,</hi> the ſpirit of valour and magnani<g ref="char:EOLhyphen"/>mitie, and every man accordin gto his ability Levyed a power for the preſervation of the King and kingdome, all which forces being united, amounted to the number of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0000. And though the Conſpirators by vertue of a cer<g ref="char:EOLhyphen"/>taine
+<pb facs="tcp:124103:3"/>Spiratuall Commiſſion, Proclaimed throughout the <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y of <hi>London.</hi> That no man upon the paine of the loſſe <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his goods, ſhould ſell any victuall or ammunition to the <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>y of the Earle of <hi>Arundall,</hi> they could not debarre <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from it. wherefore they counſelled the King to ab<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> himſelfe from Parliament, and not conſuls of the aſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of the Kingdome, unleſſe an Oath were taken that <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y (the ſaid Conſpirators) ſhould have no accuſation ur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed againſt them, and they cauſed it to be proclaimed <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>oughout <hi>London</hi> that none under paine of confiſcation <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all their goods, ſhould ſpeake any upbraiding ſpeeches <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ing the King or the conſpirators, which was athing <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>poſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able to hinder. In the meane time the three noble <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Duke of <hi>Glouceſter,</hi> the Earles of <hi>Arundall</hi> and <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>icke</hi> having muſtered their troops, ſent an accuſati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in wrighting to the King againſt the ſaid conſpirators <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ch B. of <hi>Yorke,</hi> the Duke of <hi>Jreland,</hi> the Earle of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ffolke, Robert Triſſilian</hi> and <hi>Nicholas Brambre,</hi> wherein <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y accuſed them of high Treaſon for Proclaiming through <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>all the ſhires where the King Iournied, that all Barons Knights and Eſquiers, with the greateſt of the commonal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y able to bare armes ſhould ſpedily repare to the King <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>or his defence againſt the power of the Commiſſion. As <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſo that contrary to the ſaid Acts they cauſed the Duke of <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>land to be created chiefe Juſtice of Cheſter hereby ſel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing Iuſtice as they liſted and for giving pardons under the <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>d Seal to Fellons murtherers and ſuch like: as alſo they <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ght. Ireland to looke backe on her priſtine eſtate of ha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing a King; for they ploted to have the Duke created <hi>K.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ireland: and for to have the confirmation of this deſign <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y allured the King to ſend his letters to the Pope.</p>
+               <p>When theſe things come to the Kings cares he ſent unto <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> requiring to know what their demands were: An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer was returned, they deſired that the Traytors who <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ily committed inſufferable crimes and filled his cares with falſe reports to avoyd the effuſion of more blood; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> receive that reward their crimes deſerved and that <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>y might have free liberty of going and comming to his <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>his the King gave conſent unto and ſitting in his <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrone at the great hall is weſtminſter the Poore appelants
+<pb facs="tcp:124103:4"/>with humbler everence bowed three times low before his Majeſty on their knes and againe aſked the aforeſaid con<g ref="char:EOLhyphen"/>ſpirators guilty of high-<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reaſon whereupon nor long after the Duke of Ireland withdrew himſelfe and marching unto Cheſſhire Lancaſhire and wales raiſed a power of 6000. men in the Kings name to overthrow and confound the ap<g ref="char:EOLhyphen"/>pellants and marching towards <hi>London</hi> when he found the army of the appellants was marching downe the moun<g ref="char:EOLhyphen"/>taines neere whitney like a Hive of Bees ſuch aviolent and cold palſey cowed them that they ſlung downe their armes and yeilded themſelves to the mercy of the appellants the Duke of Ireland himſelfe putting ſpures to his horſe tooke the River where he hardly eſcaped drowning the conſpira<g ref="char:EOLhyphen"/>tors hearing of this ſtriken with ſeare under the coveat of the night did fle by water to the Tower and ſeduced the King to goe alog with them.</p>
+               <p>Nor long after, there was conference in the cower, be<g ref="char:EOLhyphen"/>twixt the King and the ſaid appellants, at the end of which the King did ſweare to adhere to their counſailes, ſo fare as the rule of Law and Reaſon and Equity did require. and becauſe the Harveſt was now ripe, preſently divers of the Officers of the Kings houſhould were excluded, as <hi>Iohn Benechamp Peter Bourt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey</hi> Knights and many others end of the clergy <hi>Iohn Blake</hi> Deane of the chappell <hi>Iohn Lincolne</hi> chancellour of the exchequer <hi>John Clifford</hi> clerk of the chapell were kept under Arreſt: and thus this hi<g ref="char:EOLhyphen"/>deous brood of monſters ſo oftene ſhaken was quite overthrowne.</p>
+               <p>On the ſecond of <hi>February</hi> the King came to his Par<g ref="char:EOLhyphen"/>liament, and after him appeared the five noblemen ap<g ref="char:EOLhyphen"/>pellants who leading one another hand in hand with Sub<g ref="char:EOLhyphen"/>miſſive geſtures they reverenced the King, and by the Mouth of <hi>Robert Pleaſington</hi> their Speaker they thus de<g ref="char:EOLhyphen"/>clared. That the Duke of <hi>Glouceſter</hi> and themſelves came to purge themſelves of the Treaſons laid to their charge, by their conſpirators to whom the Lord Chancellor by the Command of the King anſwered, that the King con<g ref="char:EOLhyphen"/>ceived honourably of them all eſpecially of his coſin the Duke of <hi>Glouceſter</hi> who being of affiniy to him in a col<g ref="char:EOLhyphen"/>laterall line could never (he ſaid) he induced to attempt
+<pb facs="tcp:124103:4"/>any reaſon againſt his Majeſty. On this, atfer thanke<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ly given to the King, the appellants requeſted the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing that ſentence of condemnation might be given a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> the conſpirators, but the King being moved in con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> and in charity perceiving that in every work they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> remember the end deſtred that the proceſſe might <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but the Peers againe importuned him that no buſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> might be debated untill this treaſon were adjudged: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which the King at longth graciouſly granted his aſſent <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> when nothing could be produced by the conſpirators <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> inſtifie themſelves. they were adiudged this heavy <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>e. That the Arch Biſhope of Yorke, the Duke of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, the Earle of <hi>Suffolk Treſſilum</hi> and <hi>Brambre</hi> ſhould <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>wne from the Tower to Tiburne, and there to be <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ged upon a Gibber untill they were dead, and all their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and goods to be confiſcated that none of their Po<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ity might by them be any way enriched. After this <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>y more of their accomplices were taken and indicted <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>high Treaſon, whoſe names here follow underwritten.</p>
+               <div type="account">
+                  <head>The Names of ſuch as were charged and condemned of high <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reaſon an the afore memed Memorable Parliament.</head>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lexander Nevill</hi> Arch Biſhop of <hi>Yorke, Robert de Vere</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ke of <hi>Ireland</hi> who being banniſhed into <hi>Franse</hi> was kil <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with a wild <hi>Bore. Michael de la Poole</hi> Earle of <hi>Suffolk</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>high Chancellor. <hi>Robert Treſſilian</hi> L. chiefe Juſtice of <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Kings bench. <hi>Sir Nicholas Brambre</hi> ſometimes Lord <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>jor of <hi>London</hi> made a privy Counſellor. <hi>Iohn Blake</hi> Ser<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> at <hi>Armies. Thomas Vske</hi> an intelligencer of <hi>Treſſili<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi> All theſe (except the Duke of <hi>Ireland</hi>) were hanged <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> drawne at the Elmes now called Tyburne.</p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>re Belknap, John Holt, Roger Falthorpe, William Bur<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> Iohn Locton, Iohn Cary</hi> were Judges and although <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>mnded, yet their lives were ſaved at the in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erceſſion <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Lords Spirituall and Temporall; and were after<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ds banniſhed into <hi>Ireland.</hi> Sir <hi>Symon B<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>eigh,</hi> who <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> condemned and beheaded. Sir <hi>Iohn Branchamp</hi> Stew<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> of the Houſhold to the King. Sir <hi>Iames Beverſous.</hi>
+                  </p>
+                  <p>There was alſo condemned and detected of the afore<g ref="char:EOLhyphen"/>ſaid
+<pb facs="tcp:124103:5"/>treaſon. The Biſhop of <hi>Chicheſter,</hi> the Kings confeſſor S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>Thomas Trinit</hi> Knight, Sir <hi>William Ellingham</hi> Knight, Sir <hi>Nicholas Neyworth, Iohn Slake, Iohn Lincolne,</hi> which laſt, were three of the Clergy. Behold theſe men who feared not God not regarded men, but having the Lawes in their owne hands wreſted them now this way and now that way, as pleaſed beſt their appetites: wreſting them at their pleaſures for their owne Commodities, were at the laſt brought down to the depth of miſery, from whence they were never able to free themſelves.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Richard,</hi> Sonne of the valiant and victorious <hi>Edward</hi> the blacke Prince was borne at <hi>Burdeaux</hi> and grand-child to King <hi>Edward</hi> the third being eleven yeares old, began his Raigne the twenty one day of June, in the yeare of out Lord 1377. and was Crowned King at <hi>Weſtminſter</hi> the 16 day of Iuly, in bounty, beauty, and liberallity, he fare ſurpaſſed all his Progenitors, but was over much given to eaſe and quietneſſe, little regarding the ſeates of Armes And being young, was ruled moſt by young Councell re<g ref="char:EOLhyphen"/>garding little the Councell of the ſage men of the Realm, which thig turned this Land to great trouble, and him<g ref="char:EOLhyphen"/>ſelfs to extreame miſery; For being firſt diſgraced by his Cozen <hi>Henry</hi> of <hi>Bullingbroke,</hi> Duke of <hi>Herford,</hi> Sonne of <hi>Iohn</hi> of <hi>Gaunt,</hi> D. of <hi>Lancaſter;</hi> he was at length by the generall conſent of Parliament depoſed from his crowne and Kingdome, the 29. of <hi>September</hi> 1639. and commit<g ref="char:EOLhyphen"/>ted to priſon and and afterwards wickedly murdered for being ſent to pomfret caſtle to be ſafely kept and Princely mainetained, he was ſhortly after by King Henries direc<g ref="char:EOLhyphen"/>tion and command (who feared leaſt his eſtate might be ſhoken while King <hi>Richard</hi> lived) wickedly aſſaulted in his lodging Sir <hi>Pereu</hi> of <hi>Exton</hi> and 8. other amed men from one of them which with a Princely courag he wreſt<g ref="char:EOLhyphen"/>ed abrome bill and therewith ſlew 4 of them, fought with all the r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt untill coming by his owne chayre (in which the baſſe cowardly Knight ſtoode for his owne ſafety) he was by him ſtrooke with a Pole-axe in the hinder part of his head that preſently he fell downe and died, when he had Raigned <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. ye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 17. weekes and 2. dayes.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124103:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
